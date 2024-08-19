@@ -1,0 +1,4 @@
+NAME                 ADDRESSTYPE   PORTS   ENDPOINTS                                AGE
+flask-app-54mfp      IPv4          5000    10.233.75.69                             136m
+frontend-app-9zz68   IPv4          80      10.233.74.109                            120m
+golang-exam-lmp77    IPv4          80      10.233.74.65,10.233.75.17,10.233.71.11   40m

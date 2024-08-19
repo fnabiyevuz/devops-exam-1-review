@@ -1,0 +1,1 @@
+kubectl scale deployment golang-exam --replicas 3

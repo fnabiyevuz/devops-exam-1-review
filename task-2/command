@@ -1,0 +1,1 @@
+kubectl run nginx1 --image nginx -l project=practice --dry-run=client -o yaml > task-2/nginx1.yaml

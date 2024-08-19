@@ -1,0 +1,1 @@
+kubectl expose deployment golang-exam --port 80 --target-port 80

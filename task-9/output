@@ -1,0 +1,6 @@
+NAME           TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+flask-app      NodePort   10.233.44.167   <none>        80:31528/TCP   16m
+frontend-app   NodePort   10.233.7.182    <none>        80:31107/TCP   42s
+
+
+{"message":"Welcome to your Kubernetes Exam!"}

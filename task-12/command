@@ -1,0 +1,2 @@
+kubectl create deployment golang-exam --image fnabiyev/golang-exam:v1 --port 80 --dry-run=client -o yaml > task-12/golang-exam.yaml
+kubectl create -f task-12/golang-exam.yaml

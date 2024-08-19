@@ -1,0 +1,1 @@
+kubectl get endpointslices.discovery.k8s.io

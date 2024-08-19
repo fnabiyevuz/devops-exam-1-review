@@ -1,0 +1,1 @@
+kubectl create deploy flask-app --image nvrbckdown/flask-app --replicas 1 --port 5000

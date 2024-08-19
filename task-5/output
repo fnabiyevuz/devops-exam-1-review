@@ -1,0 +1,5 @@
+NAME        TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+flask-app   NodePort   10.233.44.167   <none>        80:31528/TCP   3m47s
+
+
+{"env":"staging","http_port":"80","string":"Welcome to DevOps Course!"}

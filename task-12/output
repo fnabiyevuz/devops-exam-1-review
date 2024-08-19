@@ -1,0 +1,6 @@
+NAME                            READY   STATUS    RESTARTS   AGE
+flask-app-687ff64756-dbhqj      1/1     Running   0          104m
+frontend-app-6fb9bb9dc8-7vtxk   1/1     Running   0          82m
+golang-exam-9b5cbb984-b6xdz     1/1     Running   0          36s
+nginx1                          1/1     Running   0          109m
+nginx2                          1/1     Running   0          108m

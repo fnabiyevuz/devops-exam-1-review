@@ -1,0 +1,2 @@
+kubectl port-forward pods/golang-exam-6c8c78d86-vwf5n 80:80
+curl localhost:80/load-capability

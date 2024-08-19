@@ -1,0 +1,1 @@
+kubectl create cronjob cron-ping-exam --image=busybox --schedule="*/2 * * * *" -- /bin/sh -c "ping -c 4 8.8.8.8"

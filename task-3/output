@@ -1,0 +1,7 @@
+NAMESPACE       NAME     READY   STATUS    RESTARTS   AGE
+exam-1-review   nginx1   1/1     Running   0          2m10s
+exam-1-review   nginx2   1/1     Running   0          2m6s
+exam-doston     nginx1   1/1     Running   0          19h
+exam-doston     nginx2   1/1     Running   0          19h
+exam-sardor     nginx1   1/1     Running   0          38h
+exam-sardor     nginx2   1/1     Running   0          38h

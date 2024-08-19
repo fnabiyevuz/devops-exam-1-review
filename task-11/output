@@ -1,0 +1,15 @@
+NAME       TYPE     DATA   AGE
+database   Opaque   1      63s
+
+
+apiVersion: v1
+data:
+  DB_URI: J3Bvc3RncmVzczovL2FkbWluOnN1cGVyc2VjcmV0QDEwLjAuMC4xOjU0MzIvZXhhbS1kYic=
+kind: Secret
+metadata:
+  creationTimestamp: "2024-08-19T10:04:52Z"
+  name: database
+  namespace: exam-1-review
+  resourceVersion: "8892336"
+  uid: 7298c13b-3b9c-42fe-8b9a-eb46d953ce56
+type: Opaque

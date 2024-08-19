@@ -1,0 +1,1 @@
+kubectl create ing golang-exam --rule "nvrbckdown.uz/*=golang-exam:80" --class nginx
